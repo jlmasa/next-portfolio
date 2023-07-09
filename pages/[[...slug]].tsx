@@ -114,8 +114,8 @@ export const getStaticProps: GetStaticProps = async (context) => {
       footer,
       errorNoKeys,
       errorPage,
-      errorHeader,
-      errorFooter,
+      // errorHeader,
+      // errorFooter,
     },
   }
 }
